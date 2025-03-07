@@ -8,7 +8,7 @@
       "github": "TheGrizzlyDev"
     }
   ],
-  "repository": ["github:bazel-contrib/supply-chain"],
+  "repository": ["github:alexeagle/supply-chain"],
   "versions": [],
   "yanked_versions": {}
 }
